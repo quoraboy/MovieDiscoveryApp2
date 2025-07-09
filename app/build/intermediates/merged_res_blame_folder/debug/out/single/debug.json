@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/drawable_bookmark_border.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/drawable/bookmark_border.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/xml_network_security_config.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/xml_backup_rules.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/drawable_bookmark.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/drawable/bookmark.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.moviediscovery.app-merged_res-78:/xml_network_security_config.xml.flat",
+        "source": "com.moviediscovery.app-main-80:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-merged_res-78:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/H542650/.gradle/daemon/8.10/com.moviediscovery.app-main-80:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    }
+]
